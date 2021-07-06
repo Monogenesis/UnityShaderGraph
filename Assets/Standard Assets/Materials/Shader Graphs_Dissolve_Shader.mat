@@ -37,9 +37,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Border_Width: 0.256
-    - Noise_Intensity: 138
-    - Progress: 0.09
+    - Border_Width: 0.24
+    - Noise_Intensity: 235
+    - Progress: -0.39
     m_Colors:
-    - Dissolve_Color: {r: 14.933339, g: 8.882671, b: 0.23455463, a: 0}
+    - Dissolve_Color: {r: 11.097112, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

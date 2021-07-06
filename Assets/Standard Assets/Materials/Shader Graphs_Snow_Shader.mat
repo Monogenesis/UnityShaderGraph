@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture:
-        m_Texture: {fileID: 2800000, guid: 440eb36db91ca410f800ff3cfe43572f, type: 3}
+        m_Texture: {fileID: 2800000, guid: eb1a2bd4cc2f3744db442f6f69226e40, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -37,10 +37,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Intensity: 0.63
-    - Noise_Intensity: 0.28
-    - Snow_Height: -0.14
-    - Snow_Waves: 1.17
+    - Intensity: 0.84
+    - Noise_Intensity: 2.88
+    - Snow_Height: 0.25
+    - Snow_Waves: 1.05
     m_Colors:
     - Direction: {r: 0, g: 1, b: 0, a: 0}
     - Waviness: {r: 0.52, g: 1.77, b: 0, a: 0}
